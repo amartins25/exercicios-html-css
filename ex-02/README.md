@@ -8,7 +8,7 @@
 
 4 - Crie uma lista não ordenada com 5 itens
 
-5 - Crie uma lista ordenada com 5 itens
+5 - Crie uma lista ordenada com 5 itens e
 
 6 - Crie um link, que abra em uma nova página, com o texto "globo.com" (sem as aspas) e que leve para o "https://www.globo.com/"(sem as aspas)
 
